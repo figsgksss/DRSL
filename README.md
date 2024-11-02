@@ -1,7 +1,7 @@
-# DRS Whitelist bot
-DRS, is a roblox company that sells Retail Machines SCO's and other stuff.
-but they got leaked.
-https://discord.gg/P86d9Z5kzV leaks server.
-so i kinda got the Whitelist Bot .Js File .
-Yhea so i will reveal them when its time.
-if the ones in the Retail's folder isnt working grab them from here     https://drive.google.com/drive/folders/1KvFqsjKR9GWoupB3YMVe2pb7XD3Qyvzu?usp=sharing
+# DRSL- Direct Retail Solutions Leaked
+this is the only place where you will find cracked DRS
+unfortunately GTE left the cracked community of DRS 
+Go on use these on your game for free
+thank me later
+
+if you have any issues feel free to open an issue
