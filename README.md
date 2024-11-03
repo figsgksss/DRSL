@@ -1,13 +1,21 @@
 # DRSL- Direct Retail Solutions Leaked
 
-Welcome to the DRSL repository! This project contains leaked assets and scripts related to the Direct Retail Solutions (DRS) machines in Roblox. Whether you’re looking to enhance your own retail experience in the game or learn from existing implementations, you’re in the right place.
+Welcome to the DRSL repository! This project contains leaked assets and scripts related to the Direct Retail Solutions (DRS) machines in Roblox. Whether you’re looking to enhance your own retail experience in the game or learn from existing implementations, you’re in the right place
 
 
-IMPORTANT: place DRS-Source.rbxm in ur server script service or smth like that 
+To Use DRSL Follow These Steps
 
 
-License
+Go to the most recent release
 
 
-This project is not licensed for commercial use. Please respect the original creators' rights and use the assets responsibly.
+unarchive the rar file
 
+
+import what you want into your game
+
+
+then add DRS-Source.rbxm in ur server script service (this is neccesary)
+
+
+then ur done thank me later
