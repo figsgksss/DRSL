@@ -7,8 +7,10 @@ Features
 Retail Machine Assets: Explore a collection of 3D models and UI components used in DRS.
 Scripts and Functionality: Dive into the Lua scripts that power the retail machines, complete with comments for easier understanding.
 Customization Examples: Find templates and examples that can help you customize your own retail setups.
-Installation
-To get started with the DRS machines:
+
+
+
+To get started with the DRSL machines:
 
 
 Clone the repository:
@@ -16,24 +18,13 @@ Clone the repository:
 git clone https://github.com/yourusername/DRSL.git
 
 
-Import the assets into your Roblox Studio project.
+Import the Machines into your Roblox Studio game.
 
 
-Review the scripts and modify them to fit your needs.
+IMPORTANT: place DRS-Source.rbxm in ur server script service or smth like that 
 
 
-Usage
 
-
-Implement the retail machines in your Roblox game for a fully functional retail experience.
-Use the provided scripts as a foundation for your own unique features.
-Contributing
-Contributions are welcome! If you have improvements, fixes, or additional features to share, please open a pull request.
-
-Disclaimer
-
-
-This repository contains leaked content that is not authorized for distribution. Use at your own risk and ensure compliance with Roblox’s terms of service.
 
 License
 
